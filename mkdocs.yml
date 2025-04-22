@@ -1,7 +1,13 @@
 site_name: Moje projekty
 site_author: Marcin Fryś
+site_url: https://mardil26.github.io/mf_ai_portfolio/iris/
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
+
+
+repo_name: Mardil26/mf_ai_portfolio
+repo_url: https://github.com/Mardil26/mf_ai_portfolio
+
 
 theme:
   name: material
