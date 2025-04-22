@@ -1,0 +1,22 @@
+site_name: Moje projekty
+site_author: Marcin Fryś
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: yellow
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "pomocnik Językowy": pomocnik_jezykowy/index.md
+- Poprzednie projekty:
+  - "Titanic": titanic/index.md
+  - "Iris": iris/index.md
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
